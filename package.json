@@ -1,0 +1,13 @@
+{
+  "name": "jabberbot-sdk",
+  "version": "0.0.0",
+  "description": "jabberbot-sdk",
+  "author": {
+    "name": "xinpa"
+  },
+  "dependencies": {
+    "botkit": "^0.6.0",
+    "node-xmpp-caps": "0.0.2",
+    "simple-xmpp": "^1.3.0"
+  }
+}
