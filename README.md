@@ -21,7 +21,7 @@ The full code for a simple Cisco Jabber bot is as below:
     
     var bot = controller.spawn({
     client: {
-    jid: ‘john@alpha-cup.cisco.com',
+    jid: 'john@alpha-cup.cisco.com',
     password: *,
     host: "shn-alpha-cup011.cisco.com",
     port: 5222
