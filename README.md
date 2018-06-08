@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Cisco Jabber bot extensions have been added into the core Botkit package.  Please install and use Botkit to develop with Cisco Jabber bots.
+
 # BotKit Starter for Cisco Jabber  #
 Botkit is designed to ease the process of designing and running useful, creative bots that live inside Cisco Jabber.
 Botkit features a comprehensive set of tools to deal with Cisco Jabber, and allows developers to build interactive bots and applications that send and receive messages just like real humans.
